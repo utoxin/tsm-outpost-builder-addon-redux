@@ -1,8 +1,16 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 2021/11/26
+  Changes:
+    - New author - Utoxin
+  Bug Fixes:
+    - Fix possible crash when removing items from the exclusion list.
+
+---------------------------------------------------------------------------------------------------
 Version: 1.1.0
 Date: 2020/12/12
   Features:
-    - Vwesion 1.1 compatibility
+    - Version 1.1 compatibility
     
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
@@ -26,5 +34,5 @@ Date: 2020/07/09
     - Train counters are now always excluded from the ghost reader's output
   Features:
     - There is now a train counter exclusions list accessible via the shortcut menu items.  items
-      added to the exclusions list will excluded from the next ghost reader calculation. These
+      added to the exclusions list will be excluded from the next ghost reader calculation. These
       items can easily be added or removed as required.
