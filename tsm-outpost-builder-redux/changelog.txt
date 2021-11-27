@@ -2,6 +2,7 @@
 Version: 2.0.0
 Date: 2021/11/26
   Changes:
+    - Now plugin name
     - New author - Utoxin
   Bug Fixes:
     - Fix possible crash when removing items from the exclusion list.
