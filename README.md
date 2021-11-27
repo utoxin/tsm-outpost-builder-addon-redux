@@ -1,2 +1,2 @@
-# tsm-outpost-builder-addon-redux
+# tsm-outpost-builder-redux
  Fixing some bugs, and tweaking some behavior
